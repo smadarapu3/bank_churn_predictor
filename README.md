@@ -22,6 +22,6 @@ Enter your desired features, and then run `python main_code.py`
 
 ## Sample Queries 
 
-([/Screen Shot 2023-11-02 at 12.39.22 PM.png](https://github.com/smadarapu3/bank_churn_predictor/blob/ff994b4395a673febd85e37d0eeac87569ad096c/Screen%20Shot%202023-11-02%20at%2012.39.22%20PM.png)
+![/Screen Shot 2023-11-02 at 12.39.22 PM.png](https://github.com/smadarapu3/bank_churn_predictor/blob/ff994b4395a673febd85e37d0eeac87569ad096c/Screen%20Shot%202023-11-02%20at%2012.39.22%20PM.png)
 
 
