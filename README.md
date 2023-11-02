@@ -22,4 +22,6 @@ Enter your desired features, and then run `python main_code.py`
 
 ## Sample Queries 
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/Screen Shot 2023-11-02 at 12.39.22 PM.png)
+
 
