@@ -4,3 +4,5 @@ An app that takes in data about a fictional person from the user and then predic
 
 # Setup And Running 
 Ensure all libraries are installed by running `pip install -r requirements.txt`
+Navigate to `code/main_code.py` and scroll until you see the following code: 
+
