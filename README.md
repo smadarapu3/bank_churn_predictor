@@ -5,4 +5,19 @@ An app that takes in data about a fictional person from the user and then predic
 # Setup And Running 
 Ensure all libraries are installed by running `pip install -r requirements.txt`
 Navigate to `code/main_code.py` and scroll until you see the following code: 
+```
+# USER INPUT HERE
+
+credit_score= "608"      # customer credit score: number from 350-850
+country = "Spain"       # choose between France, Germany, or Spain
+gender = "Female"          # Male or Female
+age = "41"               # number between 18-100
+tenure = "1"             # how many years have they been at ABC bank: number between 0-10
+balance = "83807"       # current account balance: number between 0-250000
+num_prods = "1"          # number of products with ABC bank: number between 1-4
+credit_card = "False"     # does the customer have a credit card: boolean
+active_mem  = "true"    # is the customer an active member: boolean
+est_salary = "112542"     # estimated salary of customer
+```
+Enter your desired features, and then run `python main_code.py`
 
